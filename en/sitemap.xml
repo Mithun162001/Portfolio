@@ -2,121 +2,121 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mithun162001.github.io/portfolio/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/</loc>
     <lastmod>2021-04-30T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mithun162001.github.io/portfolio/fr/"
+                href="https://mithun162001.github.io/Portfolio/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mithun162001.github.io/portfolio/"
+                href="https://mithun162001.github.io/Portfolio/"
                 />
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/post/project-1/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/post/project-1/</loc>
     <lastmod>2021-04-30T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/tags/scene/</loc>
-    <lastmod>2021-04-30T10:58:08-04:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mithun162001.github.io/portfolio/fr/tags/scene/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mithun162001.github.io/portfolio/tags/scene/"
-                />
-  </url><url>
-    <loc>https://mithun162001.github.io/portfolio/tags/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/tags/scene/</loc>
     <lastmod>2021-04-30T10:58:08-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mithun162001.github.io/portfolio/fr/tags/"
+                href="https://mithun162001.github.io/Portfolio/fr/tags/scene/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mithun162001.github.io/portfolio/tags/"
+                href="https://mithun162001.github.io/Portfolio/tags/scene/"
                 />
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/tags/next/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/tags/</loc>
+    <lastmod>2021-04-30T10:58:08-04:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mithun162001.github.io/Portfolio/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mithun162001.github.io/Portfolio/tags/"
+                />
+  </url><url>
+    <loc>https://mithun162001.github.io/Portfolio/tags/next/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/post/project-4/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/post/project-4/</loc>
     <lastmod>2017-04-12T11:14:48-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/post/project-3/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/post/project-3/</loc>
     <lastmod>2017-04-11T11:13:32-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/post/project-2/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/post/project-2/</loc>
     <lastmod>2017-04-10T11:00:59-04:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/post/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/post/</loc>
     <lastmod>2017-03-02T12:00:00-05:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mithun162001.github.io/portfolio/fr/post/"
+                href="https://mithun162001.github.io/Portfolio/fr/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mithun162001.github.io/portfolio/post/"
+                href="https://mithun162001.github.io/Portfolio/post/"
                 />
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/about/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mithun162001.github.io/portfolio/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="https://mithun162001.github.io/portfolio/fr/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://mithun162001.github.io/portfolio/categories/"
-                />
-  </url><url>
-    <loc>https://mithun162001.github.io/portfolio/contact/</loc>
+    <loc>https://mithun162001.github.io/Portfolio/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mithun162001.github.io/portfolio/fr/contact/"
+                href="https://mithun162001.github.io/Portfolio/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mithun162001.github.io/portfolio/contact/"
+                href="https://mithun162001.github.io/Portfolio/categories/"
+                />
+  </url><url>
+    <loc>https://mithun162001.github.io/Portfolio/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mithun162001.github.io/Portfolio/fr/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mithun162001.github.io/Portfolio/contact/"
                 />
   </url>
 </urlset>
