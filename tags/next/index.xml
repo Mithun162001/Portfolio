@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>next on Mithun G</title>
+    <link>https://mithun162001.github.io/portfolio/tags/next/</link>
+    <description>Recent content in next on Mithun G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate><atom:link href="https://mithun162001.github.io/portfolio/tags/next/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: Solar Radiation Predictor</title>
+      <link>https://mithun162001.github.io/portfolio/post/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://mithun162001.github.io/portfolio/post/project-4/</guid>
+      <description>The dataset contains such columns as: &amp;ldquo;wind direction&amp;rdquo;, &amp;ldquo;wind speed&amp;rdquo;, &amp;ldquo;humidity&amp;rdquo; and temperature. The response parameter that is to be predicted is: &amp;ldquo;Solar_radiation&amp;rdquo;. It contains measurements for the past 4 months and you have to predict the level of solar radiation. Just imagine that you&amp;rsquo;ve got solar energy batteries and you want to know will it be reasonable to use them in future?    Link to github Repository</description>
+    </item>
+    
+  </channel>
+</rss>

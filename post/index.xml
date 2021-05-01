@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mithun G</title>
+    <link>https://mithun162001.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Mithun G</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://mithun162001.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: Parkinson&#39;s Disease Classifier</title>
+      <link>https://mithun162001.github.io/portfolio/post/project-1/</link>
+      <pubDate>Fri, 30 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://mithun162001.github.io/portfolio/post/project-1/</guid>
+      <description>Parkinson’s Disease (PD) is a degenerative neurological disorder marked by decreased dopamine levels in the brain. It manifests itself through a deterioration of movement, including the presence of tremors and stiffness. There is commonly a marked effect on speech, including dysarthria (difficulty articulating sounds), hypophonia (lowered volume), and monotone (reduced pitch range). Additionally, cognitive impairments and changes in mood can occur, and risk of dementia is increased. Traditional diagnosis of Parkinson’s Disease involves a clinician taking a neurological history of the patient and observing motor skills in various situations.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Solar Radiation Predictor</title>
+      <link>https://mithun162001.github.io/portfolio/post/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      
+      <guid>https://mithun162001.github.io/portfolio/post/project-4/</guid>
+      <description>The dataset contains such columns as: &amp;ldquo;wind direction&amp;rdquo;, &amp;ldquo;wind speed&amp;rdquo;, &amp;ldquo;humidity&amp;rdquo; and temperature. The response parameter that is to be predicted is: &amp;ldquo;Solar_radiation&amp;rdquo;. It contains measurements for the past 4 months and you have to predict the level of solar radiation. Just imagine that you&amp;rsquo;ve got solar energy batteries and you want to know will it be reasonable to use them in future?    Link to github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project III: Titanic Data Classification</title>
+      <link>https://mithun162001.github.io/portfolio/post/project-3/</link>
+      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      
+      <guid>https://mithun162001.github.io/portfolio/post/project-3/</guid>
+      <description>The sinking of the Titanic is one of the most infamous shipwrecks in history.
+  On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
+  While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Cancer Classification</title>
+      <link>https://mithun162001.github.io/portfolio/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://mithun162001.github.io/portfolio/post/project-2/</guid>
+      <description>Cancer is an abnormal growth of cells. * Cancer cells rapidly reproduce despite restriction of space, nutrients shared by other cells, or signals sent from the body to stop reproduction.
+  Cancer cells are often shaped differently from healthy cells, they do not function properly, and they can spread to many areas of the body.
+  Tumors, abnormal growth of tissue, are clusters of cells that are capable of growing and dividing uncontrollably; their growth is not regulated.</description>
+    </item>
+    
+  </channel>
+</rss>
